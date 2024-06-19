@@ -48,6 +48,7 @@ header .content .menu-container label {
 }
 header .content .menu-container label i {
   font-size: 30px;
+  color: white;
 }
 header .content .menu-container .navbar ul li {
   position: relative;
